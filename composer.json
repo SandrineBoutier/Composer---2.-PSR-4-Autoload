@@ -1,0 +1,16 @@
+{
+    "name": "sandrine/composer2",
+    "description": "\"Projet quete composer\"",
+    "autoload": {
+        "psr-4": {
+            "App\\Wcs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sandrine Boutier",
+            "email": "sandrineboutier@gmail.com"
+        }
+    ],
+    "require": {}
+}
